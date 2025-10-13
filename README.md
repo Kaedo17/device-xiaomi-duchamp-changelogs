@@ -3,6 +3,7 @@ changelogs for Poco X6 Pro 5G
 
 10/13/2025
 - Sync to Source
+- Full OSS Kernel
 - Upstreamed Kernel to 6.1.68
 - Fixed UI Elements Flickering
 - Switch to stock cam
